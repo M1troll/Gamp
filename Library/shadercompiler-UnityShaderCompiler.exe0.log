@@ -1,5 +1,6 @@
 Base path: C:/UNIty/2018.4.17f1/Editor/Data
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -53,3 +54,5 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+=======
+>>>>>>> 6aca2f029ea9d18193333e195cf7db15150c61a5

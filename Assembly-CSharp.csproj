@@ -67,10 +67,14 @@
     <Compile Include="Assets\Scripts\ArrowAHead.cs" />
     <Compile Include="Assets\Scripts\ArrowLeftRotate.cs" />
     <Compile Include="Assets\Scripts\ArrowRightRotate.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scripts\ChangeCamera.cs" />
     <Compile Include="Assets\Scripts\Finish_Color.cs" />
     <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\Next Way.cs" />
+=======
+    <Compile Include="Assets\Scripts\Move.cs" />
+>>>>>>> 6aca2f029ea9d18193333e195cf7db15150c61a5
     <Compile Include="Assets\Scripts\WayArray.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/orochi/Gamp/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
